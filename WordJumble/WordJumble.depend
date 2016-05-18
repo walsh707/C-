@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457033136 source:e:\chaos\documents\school stuff\semester2\programmingii\c++\wordjumble\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
